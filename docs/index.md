@@ -168,15 +168,15 @@ They seek researchers who will advance work in the core research areas, create R
   - Weighted finite state transducer-based speech recognition: It is a promising alternative to the traditional decoding, which offers a unified framework representing various knowledge sources and producing the full search network optimized upto Hidden markov model states.
   - Smoothing / Discounting Techniques: In building language models, data sparsity is a major problem and smoothing can improve the performance. In the extreme case of too much training data where all parameters can be accurately trained without smoothing, one can almost always expand the model such as moving to higher n-gram model. With more parameters data sparsity becomes an issue again, but proper smoothing makes models more accurate than the original ones.
 
-  <p align="center"> <img src="images/di.png" /> </p>
+  <p align="center"> <img src="images/di.PNG" /> </p>
 
 # Contributions
 
   In Speech Assessment Platform, I have contributed in development of certain components in graphical user interface, pipelining various modules in centralised backend processing server, segmentating speech sentences for calculating Goodness of pronunciation, complete intonation analysis module, and testing the desired working of complete pipeline.
 
-  <p align="center"> <img src="images/ia.png" /> </p>
+  <p align="center"> <img src="images/ia.PNG" /> </p>
   
-  <p align="center"> <img src="images/uar.png" /> </p>
+  <p align="center"> <img src="images/uar.PNG" /> </p>
 
   In this project, I have studied the effect of discounting techniques such as Witten-bell discounting and Kneser–Ney discounting in language modelling trained with 5500 Human Resource query dataset, which is categorised into 2 sets with 2 different lexicon.
   
@@ -185,8 +185,8 @@ They seek researchers who will advance work in the core research areas, create R
   - Dashed + Questions: It contains dashed dataset appended with certain common question phrases. eg: can I apply, am I eligible, etc..
   - Dashed + Questions + Predicate: It contains 3rd dataset appended with predicates to increase their probabilities of occurring with different clauses. eg: personal-leave to be encashed.
   
-  <p align="center"> <img src="images/lm1.png" /> </p>
+  <p align="center"> <img src="images/lm1.PNG" /> </p>
   
-  <p align="center"> <img src="images/lm2.png" /> </p>
+  <p align="center"> <img src="images/lm2.PNG" /> </p>
 
 _NOTE: There is only limited information regarding the project implementation and no project code here due to TCS confidentiality and Intellectual property rights_
